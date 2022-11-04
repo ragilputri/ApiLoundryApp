@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cEaCsvF4f8315hFtcqHlJLTvmeXQh9jkfHYB37ZJsjo=",
+  "Source": "latihanwebesemka",
+  "BasePath": "_content/latihanwebesemka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "latihanwebesemka\\wwwroot",
+      "Source": "latihanwebesemka",
+      "ContentRoot": "D:\\Projek C#\\Uji Coba LKS\\latihanwebesemka\\latihanwebesemka\\wwwroot\\",
+      "BasePath": "_content/latihanwebesemka",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projek C#\\Uji Coba LKS\\latihanwebesemka\\latihanwebesemka\\wwwroot\\uploads\\jadwal.jpeg",
+      "SourceId": "latihanwebesemka",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projek C#\\Uji Coba LKS\\latihanwebesemka\\latihanwebesemka\\wwwroot\\",
+      "BasePath": "_content/latihanwebesemka",
+      "RelativePath": "uploads/jadwal.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\jadwal.jpeg"
+    }
+  ]
+}
